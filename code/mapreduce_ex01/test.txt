@@ -1,0 +1,5 @@
+This is a test
+This is a test
+There are a number of lines in this program.
+MapReduce will process this file in parallel.
+The result is the word count.
